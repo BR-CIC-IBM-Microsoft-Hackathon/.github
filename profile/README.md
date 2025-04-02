@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is a private organization used specifically for an internal hackathon.
+
+If you think you're supposed to be in this group, please reach out to one of our members via our internal Slack.
 <!--
 
 **Here are some ideas to get you started:**
